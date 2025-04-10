@@ -1,29 +1,25 @@
-* {
+*{
     margin: 0px;
-    font-family: Arial;
+    padding: 0px;
     border: border-box;
+    font-family: Arial;
+    list-style: none;
 }
 
 .navbar {
-    height: 60px;
-    background-color: #FFFFFF;
+    height: 68px;
+    background-color: black;
+    color:#fff;
 }
 
 .nav-logo {
-    height: 50px;
+    height: 68px;
     width: 100px;
 }
 
 .logo {
     background-image: url("logo.png");
-    background-size: cover;
-    height: 68px;
-    width: 200px;
-}
+    height: 50px;
+    width: 100%;
 
-.bar {
-    display:flex;
-    justify-content: space-between;
-    padding: 19px 7px 19px 7px;
-    gap: 56px;
 }
