@@ -53,7 +53,7 @@ nav button {
 }
 
 .title {
-    font-size: 48px;
+    font-size: 43px;
     font-weight: 900;
 }
 
@@ -63,5 +63,5 @@ nav button {
 
 .hero-image{
  width: 400px;
- rotate: -180deg;
+ rotate: -175deg;
 }
