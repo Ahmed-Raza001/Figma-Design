@@ -43,16 +43,16 @@ nav button {
 }
 
 .hero {
-    display: flex;
     background: linear-gradient(219.84deg, #224A7D 4.14%, #0C1B2E 44.22%);
     color: #FFFFFF;
-    justify-content: center;
-    align-items: center;
-    padding: 120px 250px;
-    gap: 60px;
+    width: 1521px;
+    height: 810px;
+    display: flex;
+    /*align-items: center;
+    justify-content: center;*/
 }
 
-.title {
+/*.title {
     font-size: 43px;
     font-weight: 900;
 }
@@ -63,5 +63,10 @@ nav button {
 
 .hero-image{
  width: 400px;
- rotate: -175deg;
+ rotate: -180deg;
 }
+
+.searchbar {
+    display: flex;
+    padding: 0px 0px 100px 70px;
+}*/
