@@ -49,3 +49,21 @@ nav a {
     border-radius: 78px;
     cursor: pointer;
 }
+
+.Container {
+    background: linear-gradient(219.84deg, #224A7D 4.14%, #0C1B2E 44.22%);
+    width: 1521px;
+    height: 741px;
+    display: flex;
+    /*justify-content: center;
+    align-items: center; */
+}
+
+.Container h1 {
+    color: #FFFFFF;
+    font-family: Poppins;
+    margin-top: 40px;
+    font-size: 45px;
+    font-weight: 600;
+}
+
